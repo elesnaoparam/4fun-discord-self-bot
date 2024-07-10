@@ -1,1 +1,1 @@
-rm -- .gitignore
+git rm files_ignored; git commit -m 'rm no use files
