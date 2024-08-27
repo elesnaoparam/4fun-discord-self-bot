@@ -1,7 +1,9 @@
-baixa o bot.py
+bot que digita infinitamente em um chat
+# Baixar
+• baixa a .py abre no vscode com a extensão Python instalada e usa:
 
-baixa a biblioteca discord.py-self no terminal (https://discordpy-self.readthedocs.io/en/latest)
+• pip install discord.py-self
 
-baixa a biblioteca do asyncio (pesquisa por asyncio python e baixa no terminal)
+• pip install async
 
-da run
+• executa
