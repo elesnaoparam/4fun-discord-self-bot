@@ -1,4 +1,4 @@
-bot que digita infinitamente em um chat
+self bot que digita infinitamente em um chat
 # Baixar
 • baixa a .py abre no vscode com a extensão Python instalada e usa:
 
