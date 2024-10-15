@@ -20,6 +20,9 @@ async def simulate_typing(channel):
 
         except Exception as e:
             print(f"Ocorreu um erro durante a simulação de digitação: {e}")
+        await asycio.sleep(10)
+
+
 @client.event
 async def on_disconnect():
     print('Desconectado do Discord, tentando reconectar...')
